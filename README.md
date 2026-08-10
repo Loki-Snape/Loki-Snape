@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack & Skillset
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,js,html,css,tailwind,cpp,python,aws,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,js,html,css,tailwind,cpp,python,aws,git,github,postman,bootstrap" />
 </p>
 
 ### Primary Skills
